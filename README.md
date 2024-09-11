@@ -1,5 +1,5 @@
 # catalan-commbank-demo-12
-This is a project created by the ESaaS Demo Tool. It is based on [https://github.com/adobe/aem-boilerplate](https://github.com/adobe/aem-boilerplate).
+This is a project created by the ESaaS Demo Tool. It is based on [https://github.com/AdobeDevXSC/dev-xsc-boilerplate](https://github.com/AdobeDevXSC/dev-xsc-boilerplate).
 
 ## Environments
 - Preview: https://main--catalan-commbank-demo-12--aemdemos.hlx.page/
